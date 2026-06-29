@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.git
+.env
+(Example for C# / .NET projects):
+bin/
+obj/
+.git
+appsettings.Development.json
